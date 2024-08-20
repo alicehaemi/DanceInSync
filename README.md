@@ -1,3 +1,4 @@
 # DanceInSync
 Information System Personal Project
-[<src="Dance in Sync.png">]
+[<img src="danceinsync.jpeg">]
+[<img src="danceinsync2.jpeg">]
